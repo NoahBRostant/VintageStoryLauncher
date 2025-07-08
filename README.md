@@ -1,0 +1,3 @@
+# VintageStoryLauncher
+
+This Github repo is mostly for issue tracking etc...
