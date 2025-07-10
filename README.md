@@ -8,7 +8,7 @@ An Advanced, Thematic Launcher for Vintage Story (Beta)
 
  
 
-    Working for both Windows 11 & Linux (Ubuntu 20.04+, Debian 11+)
+   Working for both Windows 11 & Linux (Ubuntu 20.04+, Debian 11+)
 
 
  This project is a feature-rich, unofficial game launcher for Vintage Story, built to provide players with powerful tools for managing their game
